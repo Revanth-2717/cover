@@ -131,7 +131,8 @@ footer{
 ```
 
 ## OUTPUT:
-![screenshot](https://github.com/Revanth-2717/cover/assets/152462274/9246fde9-c26e-43e5-8c61-5e31e1000c7d)
+![screenshot](https://github.com/Revanth-2717/cover/assets/152462274/008dfddb-72e4-405e-85e7-9adb92d2b1e5)
+
 
 ## Developed By : P.REVANTH
 ## REGISTER NUMBER : 212223240065
