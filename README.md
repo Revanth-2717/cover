@@ -1,4 +1,4 @@
-# Ex.06 Book Front Cover Page Design
+![WhatsApp Image 2024-04-04 at 23 12 55_ab95270a](https://github.com/Revanth-2717/cover/assets/152462274/2eb09d1b-9d91-452b-b26b-0659c156d886)# Ex.06 Book Front Cover Page Design
 ## Date:
 
 ## AIM:
@@ -131,6 +131,8 @@ footer{
 ```
 
 ## OUTPUT:
+![screenshot](https://github.com/Revanth-2717/cover/assets/152462274/9246fde9-c26e-43e5-8c61-5e31e1000c7d)
+
 
 
 ## RESULT:
