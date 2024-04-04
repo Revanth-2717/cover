@@ -1,5 +1,5 @@
-![WhatsApp Image 2024-04-04 at 23 12 55_ab95270a](https://github.com/Revanth-2717/cover/assets/152462274/2eb09d1b-9d91-452b-b26b-0659c156d886)# Ex.06 Book Front Cover Page Design
-## Date:
+# Ex.06 Book Front Cover Page Design
+## Date:04-04-24
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
