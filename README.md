@@ -43,7 +43,7 @@ map.html
         <h1 align="center">
             <font color="RED"><b>NELLORE</b></font>
         </h1>
-        <h3 align="center"><font color="blue"><b>S.L.NARASIMHA REDDY (212223040214)</b></font></h3>
+        <h3 align="center"><font color="blue"><b>P.REVANTH (212223040143)</b></font></h3>
         <center><img src="Screenshot 2024-04-02 201810.png" usemap="#image-map">
 
 <map name="image-map">
@@ -175,12 +175,13 @@ hall.html
 </html>
 
 ## OUTPUT:
-![alt text](1.map.png)
-![alt text](2.MALL.png)
-![alt text](2.HOTEL.png)
-![alt text](3.TEMPLE.png)
-![alt text](5.HOSPITAL.png)
-![alt text](6.hall.png)
+![alt text](https://github.com/Revanth-2717/cover/assets/152462274/c504aa8a-b447-42c5-b793-65eea754dbe7)
+![alt text](https://github.com/Revanth-2717/cover/assets/152462274/dc3a84c5-3a74-4046-9787-a61de8c52e60)
+![alt text](https://github.com/Revanth-2717/cover/assets/152462274/b95956ce-75be-40ca-9ed5-98a0ab64c283)
+![alt text](https://github.com/Revanth-2717/cover/assets/152462274/4c812d24-9366-4451-b91b-d03c744b878d)
+![Walt text](https://github.com/Revanth-2717/cover/assets/152462274/24dd6c4d-cf5e-4c91-afad-b85d64481f85)
+![alt text](https://github.com/Revanth-2717/cover/assets/152462274/9f97a94f-6550-4c6a-8f25-0451ad80a4dd)
+
 ## Developed By : P.REVANTH
 ## REGISTER NUMBER : 212223040143
 
