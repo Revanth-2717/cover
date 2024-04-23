@@ -31,109 +31,156 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-```html
+
+map.html
 <!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
-        <title>Web Development Technologies</title>
-        <link rel="stylesheet" href="{% static 'css/index.css' %}">
-        <style>
-            body{
-    color:rgb(255, 255, 255);
-    font-family: Helvetica, sans-serif;
-    background-color: #333
-}
+        <title>nellore</title>
 
-.book{
-    width: 726px;
-    height:891px;
-    margin:auto;
-    position: relative;
-    background-image: url(https://static.vecteezy.com/system/resources/previews/001/962/594/large_2x/abstract-wave-element-for-design-stylized-line-art-background-free-vector.jpg);
-    background-repeat: no-repeat;
-    background-size:cover;
-    background-position: bottom 0px center;
-}
-h1{
-    font-size:70px;
-    margin:60px;
-    margin-bottom:0px;
-}
-h3{
-    margin:0px 0px 90px 60px;
-    position: absolute;
-    bottom:0px;
-    font-size: xx-large;
-    font-weight:10px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:#f47027
-
-}
-h4{
-    font-size:20px;
-    margin:60px;
-   margin-top:10px;
-   width:430px;
-}
-#top{
-    border-bottom:2px solid #f47027;
-    padding:100px 0px 5px 30px;
-}
-footer{
-    position: absolute;
-    bottom: 10px;
-    border-top:2px solid #f47027;
-    padding-top:0px;
-    width:726px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-.photo{
-            position: relative;
-            top: 170px;
-            left: 550px;
-            width: 120px;
-            height: 120px;
-            background-size: cover;
-        }
-#HASH {
-    display: flex;
-    justify-content: space-between;
-}
-  #HASH span{
-    margin:10px 0px 20px 60px;
-    font-size: xx-large;
-    font-weight: bold;
-  }
-  #end{
-    padding-right:60px;
-  }
-        </style>
     </head>
     <body>
-        <section class="book">
-            <br><br>
-        <span id="top">EXPERT INSIGHT &nbsp;&nbsp;&nbsp;</span>
-            <h1>Responsive Web Design with HTML and CSS</h1>
-            <h4>Develop future-proof responsive websites using the latest HTML5 and CSS techniques</h4>
-            <h3>Third Edition</h3>  
-            <footer>
-                <div id="HASH" class="blue-msg">
-                    <span>P.REVANTH</span>
-                    <span id="end"><u>Packt></u></span>
-                </div>
-            </footer>
-            <div class="photo">
-                <img src="c:\Users\revan\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\CDBC9BCA0A9FD93852571CCED0089C4D\WhatsApp Image 2024-04-04 at 22.09.20_eb09af52.jpg" width="150" height="170"alt="">
-            </div>  
-    </section>
+        <h1 align="center">
+            <font color="RED"><b>NELLORE</b></font>
+        </h1>
+        <h3 align="center"><font color="blue"><b>S.L.NARASIMHA REDDY (212223040214)</b></font></h3>
+        <center><img src="Screenshot 2024-04-02 201810.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="MGB mall" title="MGB mall" href="mall.html" coords="632,613,444,583" shape="rect">
+    <area target="" alt="Hotel minerva grand" title="Hotel minerva grand" href="hotel.html" coords="653,486,829,529" shape="rect">
+    <area target="" alt="ISKCON temple" title="ISKCON temple" href="temple.html" coords="616,692,771,738" shape="rect">
+    <area target="" alt="Apollo hospitals" title="Apollo hospitals" href="hospital.html" coords="841,502,1067,555" shape="rect">
+    <area target="" alt="AVM function hall" title="AVM function hall" href="hall.html" coords="1158,129,1327,171" shape="rect">
+</map>
+       </center>
     </body>
 </html>
-```
+
+mall.html
+
+<html>
+    <head>
+        <title>MALL</title>
+    </head>
+    <body bgcolor="YELLOW">
+        <h1 align="center">
+            <font color="BLUE"><b>NELLORE</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="RED"><b>MGB MALL</b></font>
+        </h3>
+        <hr size="5" color="GREEN">
+        <p align="justify">
+            <font face="Georgia" size="5">
+
+                We opened for business on June 24, 2016. And, in the short span of time it has traversed between then and now, patrons and the mall management have together turned MGB Felicity Mall into a trendsetter in the region. It is a vibrating and well-frequented space of 320,000 sq. ft. spanning six floors—the only organized mall in and around an 180kms radius of Nellore, covering four districts (Nellore, Prakasam, Kadapa, and Chittoor). In a span of 36 months, MGB Felicity Mall has received over 13 million visitors and has achieved a very strong YOY growth record with business conversion seeing double digit growth over the previous year. With plentiful options for entertainment, dining, and modern-day shopping, MGB Felicity Mall is a thoughtfully laid out destination—a family entertainment center that is today Andhra Pradesh’s largest mall!</font>
+        </p>
+
+    </body>
+</html>
+
+hotel.html
+<html>
+    <head>
+        <title>hall</title>
+    </head>
+    <body bgcolor="BLUE">
+        <h1 align="center">
+            <font color="GREEN"><b>NELLORE</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="YELLOW"><b>MINERVA HOTEL</b></font>
+        </h3>
+        <hr size="5" color="BLACK">
+        <p align="justify">
+            <font face="Georgia" size="5">
+
+                Hotel Minerva Grand has conference and convention spaces, which make it an ideal choice for business meetings and official parties. 
+The famous Lord Vishnu Sri Ranganathaswamy Temple is just a 10-minute drive away from the hotel.
+Minerva Grand is located at a 10-minute driving distance from the Nellore Railway Station. 
+Its on-site bar has a private seating area. </font>
+        </p>
+
+    </body>
+</html>
+
+temple.html
+<html>
+    <head>
+        <title>hall</title>
+    </head>
+    <body bgcolor="ORANGE">
+        <h1 align="center">
+            <font color="RED"><b>NELLORE</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="BLUE"><b>ISKCON TEMPLE</b></font>
+        </h3>
+        <hr size="5" color="CYAN">
+        <p align="justify">
+            <font face="Georgia" size="5">
+
+                The ISKCON Nellore, Sri Sri Radha Shyamasundar Temple is a significant spiritual and cultural destination located in the city of Nellore, Andhra Pradesh, India. This temple is part of the International Society for Krishna Consciousness (ISKCON), a movement known for its dedication to the practice and promotion of Bhakti Yoga, with temples all around the world.
+Established as a part of the global ISKCON network, the ISKCON Nellore temple was constructed to provide a space for devotees to worship and to spread the teachings of Lord Krishna as outlined in the ancient texts of the Bhagavad Gita and Srimad Bhagavatam. The temple's primary deities, Sri Sri Radha Shyamasundar, represent the divine love between Lord Krishna and his consort Radha.</font>
+        </p>
+
+    </body>
+</html>
+
+hospital.html
+<html>
+    <head>
+        <title>hall</title>
+    </head>
+    <body bgcolor="PINK">
+        <h1 align="center">
+            <font color="BLACK"><b>NELLORE</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="GREEN"><b>APOLLO HOSPITALS</b></font>
+        </h3>
+        <hr size="5" color="BLUE">
+        <p align="justify">
+            <font face="Georgia" size="5">
+
+                Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries.</font>
+        </p>
+
+    </body>
+</html>
+
+hall.html
+<html>
+    <head>
+        <title>hall</title>
+    </head>
+    <body bgcolor="white">
+        <h1 align="center">
+            <font color="blue"><b>NELLORE</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="red"><b>AVM FUNCTION HALL</b></font>
+        </h3>
+        <hr size="5" color="cyan">
+        <p align="justify">
+            <font face="Georgia" size="5">
+
+                Banquet Halls is an enclosed space suitable for hosting a variety of events such as birthday parties, corporate events, engagement ceremonies, weddings, receptions, etc. They are beautifully designed and decorated to create an elegant ambience for any event you are hosting. Banquet halls can be booked for a stipulated time period during which the event has to take place. There are many banquet halls available in Nellore that you can use based on your requirements.
+                
+                you are on the hunt for a beautiful, well-connected hall, then get in touch with AVM Function Hall in Nawabpet, Nellore. It provides many other services apart from event space and has a rating of 4.4 for its services.</font>
+        </p>
+
+    </body>
+</html>
 
 ## OUTPUT:
-![screenshot](https://github.com/Revanth-2717/cover/assets/152462274/008dfddb-72e4-405e-85e7-9adb92d2b1e5)
-
-
+![alt text](1.map.png)
+![alt text](2.MALL.png)
+![alt text](2.HOTEL.png)
+![alt text](3.TEMPLE.png)
+![alt text](5.HOSPITAL.png)
+![alt text](6.hall.png)
 ## Developed By : P.REVANTH
 ## REGISTER NUMBER : 212223040143
 
